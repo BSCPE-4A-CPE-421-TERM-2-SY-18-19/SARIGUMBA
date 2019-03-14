@@ -1,0 +1,9 @@
+QUIZ #1
+CHARINA L. SARIGUMBA 
+BS CpE 4A
+
+PC Error/Trouble: PC won’t boot to BIOS
+
+The problem of the computer system that we disassembled is that it won’t boot to BIOS eve if we press the “TAB” or “DEL” key.
+The possible reasons for a faulting computer like this is that it might have a faulty RAM, so to solve this, try transferring it to another slot or replace it. Another thing that might be causing this is a faulty PCI card/s, also misplaced front panel connectors, so make sure to plug/connect the connectors properly on its assigned place. Another is a missing power supply cables or faulty power supply cables, so check if the 24-pin ATX cable and the 4-pin and 8-pin CPU connector on the motherboard if it is properly connected or not faulty. A dead CPU/Microprocessor might also be causing this error, so we have to replace it with another compatible microprocessor. Also a faulty PSU might be causing this error, so try to fix it and if it really can’t be fixed, replace it. 
+ 

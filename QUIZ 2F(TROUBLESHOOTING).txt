@@ -1,0 +1,7 @@
+QUIZ #2
+CHARINA L. SARIGUMBA 
+BS CpE 4A
+
+Error/Trouble: Raspberry Pi B+ won’t turn on (but has LED lights red and green on), but turned on when the other section tried to fix it.
+	The possible reason why the Raspberry Pi didn’t turn on when our class tried to turn it on is because the adapter used as the supply for power on the system is not compatible with the device. The adapter might not be supplying the required voltage and current that the device needs. It has the red LED light on, so it means that it has a problem with the power. Therefore, when troubleshooting any system, may it be a microcomputer or the normal computer, we should identify the possible problems before concluding that the device itself is no longer working. The problem might lie on the other parts that can be easily resolved. 
+ 
